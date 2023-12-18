@@ -1,0 +1,31 @@
+#message {
+	border-style: inset;
+	max-width: 50%;
+	max-height: 20em;
+}
+
+#userRequests {
+	border-style: inset;
+	max-width: 50%;
+	max-height: 20em;
+}
+
+#cartStatus {
+	border-style: inset;
+	max-width: 50%;
+	max-height: 20em;
+}
+
+.scrollBar {
+	overflow-y: scroll;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+input {
+	width: 47%;
+}
+
+li {
+	list-style-type: none;
+}
